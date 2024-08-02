@@ -1,4 +1,4 @@
-# GPS tracker & with Real-Time Visualization. 
+# GPS tracker with Real-Time Visualization. 
 A web application that tracks the current location of a user, displays it on a map, and allows the user to upload their location data to a server. Users can also view a roadmap connecting all the marked locations based on the time they were added.
 
 ## Features
